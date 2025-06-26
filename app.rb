@@ -44,7 +44,7 @@ end
 
 post("/color") do
   # pp params.fetch("my_color")
-  binding.irb
+  #binding.irb
 
   pp params
 
